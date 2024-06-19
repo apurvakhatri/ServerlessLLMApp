@@ -1,0 +1,6 @@
+/securing_credentials.py
+virtualenv/
+/ServerLessLLMApp.ipynb
+/inquiry.mp3
+.ipynb_checkpoints/
+__pycache__/
